@@ -1,0 +1,15 @@
+{
+    "name": "aristide/aristide",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/",
+            "App\\": "app/",
+            "Database\\": "database/",
+            "Qrcode\\": "qrcode/"
+        }
+    },
+    "authors": [{
+        "name": "AristideG",
+        "email": "83597794+AristideG@users.noreply.github.com"
+    }]
+}
